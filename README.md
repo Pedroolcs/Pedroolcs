@@ -1,6 +1,6 @@
 ### Oi👋, sou Pedro
 - Programador front-end
-- Atualmente aprendendo React
+- Atualmente aprendendo Typescript
 - Estudante de Análise e Desenvolvimente de Sistemas
 - LinkedIn: https://www.linkedin.com/in/pedrolucasdl/
 
