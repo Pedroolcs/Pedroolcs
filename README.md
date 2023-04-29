@@ -5,7 +5,7 @@
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Pedroolcs&show_icons=true&rank_icon=github' />
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroolcs&layout=compact' />
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroolcs&layout=default' />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
