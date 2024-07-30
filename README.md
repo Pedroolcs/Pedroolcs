@@ -1,5 +1,7 @@
 ### Oi👋, sou Pedro
 - Formado em Análise e Desenvolvimente de Sistemas
+- Apaixonado em aplicações web
+- Entusiasta da área de segurança
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Pedroolcs&theme=react&show_icons=true&rank_icon=github' />
 
